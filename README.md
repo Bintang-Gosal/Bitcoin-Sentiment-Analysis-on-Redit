@@ -17,10 +17,9 @@ This project analyzes and visualizes the potential correlation between public se
    - Visualization & Correlation: Employed matplotlib to create a dual-panel visualization showing price, volume, and sentiment trends. A correlation coefficient was calculated to quantify the relationship between sentiment and price.
 
 ## Key Findings
+  - Positive Sentiment: The analysis showed that sentiment within the r/Bitcoin community was consistently positive during the data collection period.
 
-   - Positive Sentiment: The analysis showed that sentiment within the r/Bitcoin community was consistently positive during the data collection period.
-
-   - Positive Correlation: A calculated correlation coefficient of approximately 0.32 indicates a weak-to-moderate positive relationship between daily sentiment and Bitcoin's closing price.
+   - Positive Correlation: A calculated correlation coefficient of approximately 0.41 indicates a moderate positive relationship between daily sentiment and Bitcoin's closing price.
 
 ## Limitations
 
