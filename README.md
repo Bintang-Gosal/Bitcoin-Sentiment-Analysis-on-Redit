@@ -1,10 +1,10 @@
-## Reddit-Bitcoin-Sentiment-Analyzer
+# Reddit-Bitcoin-Sentiment-Analyzer
 
-## Project Overview
+# Project Overview
 
 This project analyzes and visualizes the potential correlation between public sentiment on the r/Bitcoin subreddit and the historical price of Bitcoin. By combining data from social media and financial markets, the project aims to provide insights into how community sentiment might relate to market movements.
 
-# Methodology
+## Methodology
 
    - Reddit Data Collection: Used the PRAW library to scrape 1,000 recent posts from the r/Bitcoin subreddit.
 
@@ -16,19 +16,19 @@ This project analyzes and visualizes the potential correlation between public se
 
    - Visualization & Correlation: Employed matplotlib to create a dual-panel visualization showing price, volume, and sentiment trends. A correlation coefficient was calculated to quantify the relationship between sentiment and price.
 
-# Key Findings
+## Key Findings
 
    - Positive Sentiment: The analysis showed that sentiment within the r/Bitcoin community was consistently positive during the data collection period.
 
    - Positive Correlation: A calculated correlation coefficient of approximately 0.32 indicates a weak-to-moderate positive relationship between daily sentiment and Bitcoin's closing price.
 
-# Limitations
+## Limitations
 
    - The project used a limited dataset of approximately 14 days, so the findings may not represent long-term trends.
 
    - Correlation does not imply causation. Further analysis is needed to understand the underlying dynamics.
 
-# How to Run the Project
+## How to Run the Project
 
    - Clone the repository.
 
